@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">battletanks</string>
+    <string name="settings">settings</string>
 </resources>
